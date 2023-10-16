@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WPM Calculator", "WPM Calculator\WPM Calculator.pyproj", "{1AC201A9-0E30-47E0-9ACE-E561649E04D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC201A9-0E30-47E0-9ACE-E561649E04D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC201A9-0E30-47E0-9ACE-E561649E04D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499BDB48-E9E7-4C3D-B881-7B97A2EF5604}
+	EndGlobalSection
+EndGlobal
